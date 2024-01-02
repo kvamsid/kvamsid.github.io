@@ -15,7 +15,6 @@ venue: 'Oracle'
 
 * Highly involved in building more than 20 RESTful Web Services using JAX-RS API and Jersey Implementation and integrated multiple User-Interface Components using Oracle JET (JavaScript Extension Toolkit).
 
-* Significantly contributed to the design and development of multiple User-Interface Components using Oracle JET (JavaScript Extension
-Toolkit), which greatly improved user experience and application responsiveness, enhancing overall system performance.
+* Significantly contributed to the design and development of multiple User-Interface Components using Oracle JET (JavaScript Extension Toolkit), which greatly improved user experience and application responsiveness, enhancing overall system performance.
 
 * Engaged in over 20 client consultation sessions, demonstrating a strong commitment to addressing client needs and providing valuable technical assistance and adeptly resolved more than 50 application related bugs.
