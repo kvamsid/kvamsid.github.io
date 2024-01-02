@@ -1,6 +1,6 @@
 ---
 title: "Master of Science, Computer Science"
-collection: education
+collection: teaching
 type: "Arizona State University"
 # permalink: /education/Master's_Education_2023-25
 venue: "Fall 2023 -  Expected Spring 2025 , GPA 4/4"
