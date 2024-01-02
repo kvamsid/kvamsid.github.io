@@ -3,20 +3,20 @@ main:
   - title: "Education"
     url: /teaching/
   
-  - title: "Work Experience"
-    url: /workExp/
+  # - title: "Work Experience"
+  #   url: /workExp/
 
-  - title: "Projects"
-    url: /projects/
+  # - title: "Projects"
+  #   url: /projects/
 
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
-  - title: "Skills"
-    url: /skills/
+  # - title: "Skills"
+  #   url: /skills/
 
-  - title: "Responsibilities"
-    url: /responsibilities/    
+  # - title: "Responsibilities"
+  #   url: /responsibilities/    
 
-  - title: "Accomplishments"
-    url: /accomplishments/
+  # - title: "Accomplishments"
+  #   url: /accomplishments/
