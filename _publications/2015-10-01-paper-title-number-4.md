@@ -1,7 +1,7 @@
 ---
 title: "Full Stack Developer"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-4
+permalink: /publication/2015-10-01-paper-title-number-3
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2021-07-06
 date2: 2023-06-27
