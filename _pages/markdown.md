@@ -1,22 +1,212 @@
 ---
 permalink: /markdown/
-title: "Full Stack Developer"
+title: "GHC'23"
 author_profile: true
-date: 2021-07-06
-date2: 2023-06-27
-venue: 'Oracle'
-# redirect_from: 
-#   - /md/
-#   - /markdown.html
+redirect_from: 
+  - /md/
+  - /markdown.html
 ---
 
-* Contributed in the agile software development of a comprehensive end-to-end banking application with over 200 customer banks with more than 1 Million active users, catering to a diverse range of corporate and retail banking needs.
+## 🌟 Attentding Grace Hopper Celebration 2023 in Orlando 🌟
 
-* Played a key role in the modularization of a monolithic banking application to a microservices-based architecture, enhancing the product scalability, including a 40% boost in system performance, a 30% reduction in update-related downtime.
+I'll be attending the [Grace Hopper Celebration](https://ghc.anitab.org/ "AnitaB.org") in Orlando! 🎉I am looking forward to the exciting possibilities that lie ahead and the chance to connect with incredible professionals during this time. I am really interested in engaging with the incredible lineup of sessions, workshops, and networking opportunities that await.
 
-* Highly involved in building more than 20 RESTful Web Services using JAX-RS API and Jersey Implementation and integrated multiple User-Interface Components using Oracle JET (JavaScript Extension Toolkit).
+I'm currently on the lookout for full-time opportunities in the software engineering domain and one of my goals at the conference is to explore new opportunities in the industry, and I'm excited about the possibilities ahead. I am also looking forward to making new connections, sharing experiences, and discovering new career opportunities. If you're interested in connecting, discussing any opportunities, or simply sharing insights about the conference, please feel free to reach out to me at via LinkedIn or [mail](mailto:sschaud5@asu.edu "Email").
 
-* Significantly contributed to the design and development of multiple User-Interface Components using Oracle JET (JavaScript Extension
-Toolkit), which greatly improved user experience and application responsiveness, enhancing overall system performance.
+If you're attending the conference too, I would like to connect with you to exchange any insights and make the most out of this opportunity.
+“Let's connect, learn, and grow!”
 
-* Engaged in over 20 client consultation sessions, demonstrating a strong commitment to addressing client needs and providing valuable technical assistance and adeptly resolved more than 50 application related bugs.
+
+<!-- ## Locations of key files/directories
+
+* Basic config options: _config.yml
+* Top navigation bar config: _data/navigation.yml
+* Single pages: _pages/
+* Collections of pages are .md or .html files in:
+  * _experience/
+  * _portfolio/
+  * _posts/
+  * _teaching/
+  * _talks/
+* Footer: _includes/footer.html
+* Static files (like PDFs): /files/
+* Profile image (can set in _config.yml): images/profile.png
+
+## Tips and hints
+
+* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
+* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
+  * Green check: successful build
+  * Orange circle: building
+  * Red X: error
+  * No icon: not built
+
+## Resources
+ * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+
+## Markdown guide
+
+### Header three
+
+#### Header four
+
+##### Header five
+
+###### Header six
+
+## Blockquotes
+
+Single line blockquote:
+
+> Quotes are cool.
+
+## Tables
+
+### Table 1
+
+| Entry            | Item   |                                                              |
+| --------         | ------ | ------------------------------------------------------------ |
+| [John Doe](#)    | 2016   | Description of the item in the list                          |
+| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
+| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+
+### Table 2
+
+| Header1 | Header2 | Header3 |
+|:--------|:-------:|--------:|
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|-----------------------------|
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|=============================|
+| Foot1   | Foot2   | Foot3   |
+
+## Definition Lists
+
+Definition List Title
+:   Definition list division.
+
+Startup
+:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
+
+#dowork
+:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
+
+Do It Live
+:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
+
+## Unordered Lists (Nested)
+
+  * List item one 
+      * List item one 
+          * List item one
+          * List item two
+          * List item three
+          * List item four
+      * List item two
+      * List item three
+      * List item four
+  * List item two
+  * List item three
+  * List item four
+
+## Ordered List (Nested)
+
+  1. List item one 
+      1. List item one 
+          1. List item one
+          2. List item two
+          3. List item three
+          4. List item four
+      2. List item two
+      3. List item three
+      4. List item four
+  2. List item two
+  3. List item three
+  4. List item four
+
+## Buttons
+
+Make any link standout more when applying the `.btn` class.
+
+## Notices
+
+**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
+{: .notice}
+
+## HTML Tags
+
+### Address Tag
+
+<address>
+  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
+</address>
+
+### Anchor Tag (aka. Link)
+
+This is an example of a [link](http://github.com "Github").
+
+### Abbreviation Tag
+
+The abbreviation CSS stands for "Cascading Style Sheets".
+
+*[CSS]: Cascading Style Sheets
+
+### Cite Tag
+
+"Code is poetry." ---<cite>Automattic</cite>
+
+### Code Tag
+
+You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
+
+### Strike Tag
+
+This tag will let you <strike>strikeout text</strike>.
+
+### Emphasize Tag
+
+The emphasize tag should _italicize_ text.
+
+### Insert Tag
+
+This tag should denote <ins>inserted</ins> text.
+
+### Keyboard Tag
+
+This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
+
+### Preformatted Tag
+
+This tag styles large blocks of code.
+
+<pre>
+.post-title {
+  margin: 0 0 5px;
+  font-weight: bold;
+  font-size: 38px;
+  line-height: 1.2;
+  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
+}
+</pre>
+
+### Quote Tag
+
+<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
+
+### Strong Tag
+
+This tag shows **bold text**.
+
+### Subscript Tag
+
+Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
+
+### Superscript Tag
+
+Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
+
+### Variable Tag
+
+This allows you to denote <var>variables</var>. -->
