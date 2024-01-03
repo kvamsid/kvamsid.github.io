@@ -1,22 +1,24 @@
 # main links links
 main:
-  - title: "Education"
-    url: /teaching/
-  
+  - title: "Education History"
+    url: /teaching/ 
+
+  - title: "Projects"
+    url: /projects/    
+
   - title: "Work Experience"
     url: /experience/
 
-  - title: "Projects"
-    url: /projects/
-
-  # - title: "Publications"
-  #   url: /publications/
-
-  - title: "Skills"
-    url: /skills/
-
-  # - title: "Responsibilities"
-  #   url: /responsibilities/    
-
-  - title: "Accomplishments"
-    url: /accomplishments/
+  - title: "GHC'23"
+    url: /markdown/
+    
+  # - title: "Services"
+  #   url: /portfolio/
+        
+  # # - title: "Blog Posts"
+  # #   url: /year-archive/
+    
+  - title: "Skills and Services"
+    url: /cv/
+    
+  
