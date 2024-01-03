@@ -18,5 +18,5 @@ main:
   # - title: "Responsibilities"
   #   url: /responsibilities/    
 
-  # - title: "Accomplishments"
-  #   url: /accomplishments/
+  - title: "Accomplishments"
+    url: /accomplishments/
