@@ -1,14 +1,13 @@
 ---
-title: "Bachelor of Technology, Electronics and Communication Engineering"
+title: "Master of Science, Computer Science"
 collection: teaching
-type: "National Institute of Technology Nagpur(VNIT)"
-# permalink: /teaching/2015-spring-teaching-1
-venue: "August 2017 - May 2021 , GPA 8.92/10"
-date: 2021-05-01
-location: "Nagpur, India"
+type: "Arizona State University"
+# permalink: /teaching/2014-spring-teaching-1
+venue: "August 2022 -  Expected May 2024 , GPA 4/4"
+date: 2024-05-01
+location: "Tempe, Arizona"
 ---
-
-Coursework : Concepts in Operating Systems, Computer Architecture and Organization, Hardware Description Languages, Image Analysis and Computer Vision, Computer Programming.
+Coursework : Data Mining, Data visualization, Knowledge Representation and Reasoning, Cloud Computing, Foundation of Algorithm,  Software Requirements and Specifications.
 
 Heading 1
 ======

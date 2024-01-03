@@ -1,13 +1,14 @@
 ---
-title: "Master of Science, Computer Science"
+title: "Bachelor of Engineering, Information Technology"
 collection: teaching
-type: "Arizona State University"
-# permalink: /teaching/2015-spring-teaching-2
-venue: "August 2023 -  Expected May 2025 , GPA 4/4"
-date: 2025-05-01
-location: "Tempe, Arizona"
+type: "Pune Institute of Computer Technology"
+# permalink: /teaching/2015-spring-teaching-1
+venue: "August 2016 - May 2020 , GPA 9.58/10"
+date: 2020-05-01
+location: "Pune, India"
 ---
-Coursework : Artificial Intelligence, Statistical Machine Learning, Foundations of Algorithms, Cloud Computing, Knowledge Representation and Reasoning, Data Visualization, Data Structures and Algorithms.
+
+Coursework: Data Structures, Operating System, Machine Learning and Algorithm, Distributed Computing System, Computer Networks, Data Science and Big Data Analytics.
 
 Heading 1
 ======
