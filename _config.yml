@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vamsi's Homepage"
+title                    : "Snehal Chaudhari"
 title_separator          : "-"
-name                     : &name "Vamsi Deekshit Kanakavety"
-description              : &description "Computer Science Graduate Student at Arizona State University"
-url                      : https://kvamsid.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Snehal Chaudhari"
+description              : &description "My description"
+url                      : https://snehalchaudhari98.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kvamsid/kvamsid.github.io"
+repository               : "snehalchaudhari98/snehalchaudhari98.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Vamsi Deekshit Kanakavety"
+  name             : "Snehal Chaudhari"
   avatar           : "profile.png"
   bio              : "Computer Science Graduate Student at Arizona State University"
   location         : "Tempe, Arizona"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "vkanakav@asu.edu"
-  researchgate     :  
+  email            :  "sschaud5@asu.edu"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,17 +96,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "kvamsid"
+  github           : "snehalchaudhari98"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : 
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "vamsi-deekshith"
+  linkedin         : "/snehal-s-chaudhari/"
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : 
@@ -175,9 +175,6 @@ kramdown:
 
 # Collections
 collections:
-  education:
-    output: true
-    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -221,15 +218,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _education
-  - scope:
-      path: ""
-      type: education
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true      
   # _publications
   - scope:
       path: ""
