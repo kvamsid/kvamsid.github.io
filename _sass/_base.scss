@@ -5,6 +5,8 @@ html {
   /* sticky footer fix */
   position: relative;
   min-height: 100%;
+  background-color: #000000;
+  color: #ffffff;
 }
 
 body {
@@ -14,11 +16,20 @@ body {
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
+  background-color: #000000;
+  color: #ffffff;
+  
+  // background-color:#ffffff ;
+  // color:#000000 ;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
     overflow: hidden;
   }
+}
+
+.interactive-bg {
+  background: linear-gradient(to right, #131414, #636363);
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -248,7 +259,8 @@ figcaption {
     transition: $global-transition;
 
     &:hover {
-      color: #000;
+      color: #ffffff;
+      
       border-bottom-color: #000;
     }
   }
